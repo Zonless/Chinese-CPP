@@ -78,11 +78,12 @@
 #define 命名空间 namespace
 #define 标准 std
 #define 整型 int
-#define 浮点型 double
-#define 长整型 long long
+#define 浮点数 double
+#define 长整数 long long
 #define 字符串 string
 #define 字符 char
 #define 开关 bool
+#define 无返回 void
 #define 输入 cin>>
 #define 右移 >>
 #define 输出 cout<<
@@ -105,11 +106,13 @@
 #define 小于等于 <=
 #define 大于等于 >=
 #define （ (
-#define ） )
+#define ） ) 
 #define 结构 struct
 #define 异或 ^ 
-#define 与 &&
-#define 或 ||
-#define 非 ! 
+#define 逻辑与 &&
+#define 逻辑或 ||
+#define 逻辑非 !
+#define 按位与 &
+#define 按位或 |
 #define 大于 > 
 #define 小于 <
